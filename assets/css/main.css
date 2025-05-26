@@ -11,6 +11,10 @@ body
 	color: #313131;
 	background-color: #000000;
 }
+ul
+{
+    padding-inline-start: 0px;
+}
 .black{
 	color: #313131;
 }
