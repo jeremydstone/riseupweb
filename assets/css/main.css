@@ -371,12 +371,11 @@ footer{
 
 .icon{
 	max-height: 40px;
-	max-width: 20%;
+	max-width: 15%;
 	text-align: center;
-	/* padding: 8px; */
 	display: inline-block;
 	border: 1px solid transparent;
-	font-size: 18px;
+	font-size: 14px;
 }
 a .icon{
 	color: #dadada;
