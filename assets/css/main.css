@@ -370,10 +370,10 @@ footer{
 }
 
 .icon{
-	height: 40px;
-	width: 40px;
+	max-height: 40px;
+	max-width: 20%;
 	text-align: center;
-	padding: 8px;
+	/* padding: 8px; */
 	display: inline-block;
 	border: 1px solid transparent;
 	font-size: 18px;
